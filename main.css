@@ -1,3 +1,7 @@
 caption {
 	color: gray;
 }
+
+.lowercase {
+	text-transform:  uppercase;
+}
