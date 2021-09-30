@@ -2,6 +2,15 @@ caption {
 	color: gray;
 }
 
-.lowercase {
-	text-transform:  uppercase;
+h1 {
+	text-transform: uppercase;
 }
+
+body {
+	font-family: Georgia, serif;
+}
+
+#footer {
+	color:  gray;
+}
+
