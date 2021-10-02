@@ -1,15 +1,9 @@
-figcaption {
-	color: gray;
-}
+figcaption {color: gray;}
 
 
 h1 {text-transform: uppercase;}
 
-body {
-	font-family: Georgia, serif;
-}
+body {font-family: Georgia, serif;}
 
-#footer {
-	color:  gray;
-}
+#footer {color:  gray;}
 
